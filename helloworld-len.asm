@@ -5,7 +5,7 @@
 ; Run with: ./$filename
 
 SECTION .data
-msg     db        'Hello World!', 0Ah     ; assign msg variable with your message string
+msg     db        'Hello brave new world!', 0Ah     ; we can modify this 
 
 SECTION .text
 global  _start
